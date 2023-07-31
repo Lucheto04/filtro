@@ -1,0 +1,5 @@
+backend/node_modules/
+backend/src/controllerTS
+backend/package-lock.json
+backend/.env
+package-lock.json
